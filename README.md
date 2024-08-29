@@ -25,16 +25,16 @@ To get started with development or customization, follow these steps:
 
 1. **Clone the repository:**
 
-    ```sh
-    git clone https://github.com/your-username/imgToWebP-converter.git
-    cd imgToWebP-converter
-    ```
+   ```sh
+   git clone https://github.com/your-username/imgToWebP-converter.git
+   cd imgToWebP-converter
+   ```
 
 2. **Install dependencies:**
 
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 
 ### Compile and Hot-Reload for Development
 
@@ -42,3 +42,4 @@ To start a local development server with hot-reloading:
 
 ```sh
 npm run dev
+```
